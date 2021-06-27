@@ -64,6 +64,9 @@ public:
 //         ListNode *pA = headA;
 //         ListNode *pB = headB;
 //         while (pA != pB) {
+        //after 1 itereation difference is cutted 
+        //means let size are 7 and 4 so , one pointer points at 0
+        //and other pointer points at 7 - 4 + 1
 //             pA = pA == nullptr ? headB : pA->next;
 //             pB = pB == nullptr ? headA : pB->next;
 //         }
