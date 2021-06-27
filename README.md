@@ -15,3 +15,6 @@
 4. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 5. [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 6. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+
+  ### Day 6
+7. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
