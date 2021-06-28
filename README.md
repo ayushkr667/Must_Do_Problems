@@ -27,3 +27,4 @@
 
   ### Day 7
 1. [3Sum](https://leetcode.com/problems/3sum/)
+2. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
