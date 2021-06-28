@@ -24,3 +24,6 @@
 11. [Flattening a Linked List](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1#)
 12. [Rotate List.cpp](https://leetcode.com/problems/rotate-list/)
 13. [Clone a linked list with next and random pointer](https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1#)
+
+  ### Day 7
+1. [3Sum](https://leetcode.com/problems/3sum/)
