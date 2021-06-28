@@ -22,3 +22,4 @@
 9. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 10. [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
 11. [Flattening a Linked List](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1#)
+12. [Rotate List.cpp](https://leetcode.com/problems/rotate-list/)
