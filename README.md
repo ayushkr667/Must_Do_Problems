@@ -29,3 +29,4 @@
 1. [3Sum](https://leetcode.com/problems/3sum/)
 2. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 3. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+4. [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
