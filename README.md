@@ -30,3 +30,4 @@
 2. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 3. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 4. [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
+5. [Max Continuous Series of 1s](https://www.interviewbit.com/old/problems/max-continuous-series-of-1s/)
