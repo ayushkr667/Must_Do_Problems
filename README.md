@@ -31,3 +31,6 @@
 3. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 4. [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
 5. [Max Continuous Series of 1s](https://www.interviewbit.com/old/problems/max-continuous-series-of-1s/)
+
+  ### Day 25
+1. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
