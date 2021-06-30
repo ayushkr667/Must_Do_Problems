@@ -38,3 +38,4 @@
 3. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 4. [0-1 Knapsack](https://www.interviewbit.com/problems/0-1-knapsack/)
 5. [Edit Distance](https://leetcode.com/problems/edit-distance/)
+6. [Maximum sum increasing subsequence](https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1#)
