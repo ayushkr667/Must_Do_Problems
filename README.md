@@ -25,12 +25,12 @@
 12. [Rotate List.cpp](https://leetcode.com/problems/rotate-list/)
 13. [Clone a linked list with next and random pointer](https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1#)
 
-  ### Day 7
+  ### Day 7 (2-pointer)
 1. [3Sum](https://leetcode.com/problems/3sum/)
 2. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 3. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 4. [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
 5. [Max Continuous Series of 1s](https://www.interviewbit.com/old/problems/max-continuous-series-of-1s/)
 
-  ### Day 25
+  ### Day 25 (Dynamic Programming)
 1. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
