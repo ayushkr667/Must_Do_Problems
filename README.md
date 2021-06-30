@@ -36,3 +36,4 @@
 1. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 2. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 3. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+4. [0-1 Knapsack](https://www.interviewbit.com/problems/0-1-knapsack/)
