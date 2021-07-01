@@ -42,3 +42,4 @@
 
   ### Day 26 (Dynamic Programming)
 7. [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
+8. [Coin Change](https://leetcode.com/problems/coin-change/)
