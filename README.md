@@ -16,7 +16,7 @@
 5. [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 6. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 
-  ### Day 6
+  ### Day 6 (Linked List)
 7. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 8. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 9. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
