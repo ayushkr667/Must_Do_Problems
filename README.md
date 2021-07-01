@@ -44,3 +44,4 @@
 7. [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
 8. [Coin Change](https://leetcode.com/problems/coin-change/)
 9. [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+10. [Rod Cutting ](https://practice.geeksforgeeks.org/problems/rod-cutting0840/1#)
