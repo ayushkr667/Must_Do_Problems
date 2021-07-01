@@ -39,3 +39,6 @@
 4. [0-1 Knapsack](https://www.interviewbit.com/problems/0-1-knapsack/)
 5. [Edit Distance](https://leetcode.com/problems/edit-distance/)
 6. [Maximum sum increasing subsequence](https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1#)
+
+  ### Day 26 (Dynamic Programming)
+7. [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
