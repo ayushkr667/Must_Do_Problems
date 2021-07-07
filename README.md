@@ -34,6 +34,7 @@
 
   ### Day 8 (Greedy)
 1. [N meetings in one room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1#)
+2. [Coin Change 2](https://leetcode.com/problems/coin-change-2/)
 
 
   ### Day 25 (Dynamic Programming)
