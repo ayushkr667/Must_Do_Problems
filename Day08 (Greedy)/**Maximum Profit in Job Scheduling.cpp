@@ -20,29 +20,29 @@
 
 //Complexity n log n
 
-class Solution {
-public:
-    int jobScheduling(vector<int>& startTime, vector<int>& endTime, vector<int>& profit) {
-        int n = profit.size();
-        vector<vector<int>> jobs;
-        for (int i = 0; i < n; ++i) {
-            jobs.push_back({endTime[i], startTime[i], profit[i]});
-        }
+// class Solution {
+// public:
+//     int jobScheduling(vector<int>& startTime, vector<int>& endTime, vector<int>& profit) {
+//         int n = profit.size();
+//         vector<vector<int>> jobs;
+//         for (int i = 0; i < n; ++i) {
+//             jobs.push_back({endTime[i], startTime[i], profit[i]});
+//         }
         
-        sort(jobs.begin(), jobs.end());
+//         sort(jobs.begin(), jobs.end());
         
-        map<int, int> dp = {{0, 0}};
-        for (auto& job : jobs) {
-        //upper bound: first element which has endtime greater than start time of this
-            int cur = prev(dp.upper_bound(job[1]))->second + job[2];
+//         map<int, int> dp = {{0, 0}};
+//         for (auto& job : jobs) {
+//         //upper bound: first element which has endtime greater than start time of this
+//             int cur = prev(dp.upper_bound(job[1]))->second + job[2];
             
-            //update last
-            if (cur > dp.rbegin()->second)
-                dp[job[0]] = cur;
-        }
-        return dp.rbegin()->second;
-    }
-};
+//             //update last
+//             if (cur > dp.rbegin()->second)
+//                 dp[job[0]] = cur;
+//         }
+//         return dp.rbegin()->second;
+//     }
+// };
 
 
 
@@ -52,33 +52,35 @@ public:
 
 //ANOTHER APPROACH
 
-// O(n*n)
-// class Solution {
-// public:
+class Solution {
+public:
     
-//     int jobScheduling(vector<int>& startTime, vector<int>& endTime, vector<int>& profit){
-//         int n = profit.size();
-//         vector<vector<int>> jobs;
-//         for (int i = 0; i < n; ++i) {
-//             jobs.push_back({endTime[i], startTime[i], profit[i]});
-//         }
+    int jobScheduling(vector<int>& startTime, vector<int>& endTime, vector<int>& profit){
+        int n = profit.size();
+        vector<vector<int>> jobs;
+        for (int i = 0; i < n; ++i) {
+            jobs.push_back({endTime[i], startTime[i], profit[i]});
+        }
         
-//         sort(jobs.begin(), jobs.end());
-//         vector<int> dp(n, 0);
+        sort(jobs.begin(), jobs.end());
+        vector<int> dp(n, 0);
         
-//         dp[0] = jobs[0][2];
+        dp[0] = jobs[0][2];
         
-//         for(int i=1; i<n; i++){
-//             dp[i] = jobs[i][2];
-//             for(int j=0; j<i; j++){
-//                 if(jobs[i][1] >= jobs[j][0]){
-//                     dp[i] = max(dp[i], (dp[j] + jobs[i][2]));
-//                 }else{
-//                     dp[i] = max(dp[i], dp[j]);
-//                 }
-//             }
-//         }
+        for(int i=1; i<n; i++){
+            dp[i] = jobs[i][2];
+            //find last non-overlapping job that ends before start of this current 
+            //job and record max profit up to j, dp[j]
+            int f = 0;
+            for (int j = i - 1; j >= 0; j--) 
+                if (jobs[j][0] <= jobs[i][1])
+                    {f = dp[j]; break;}
+		    
+            //last max profit calculated from 0 .. i-1
+            //current profit and max profit up to last non-overlapping job
+            dp[i] = max(dp[i-1], f + jobs[i][2]);
+        }
         
-//         return dp[n-1];
-//     }
-// };
+        return dp[n-1];
+    }
+};
