@@ -39,6 +39,15 @@
 4. [Minimum Platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#)
 5. [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
 
+  ### Day 9 (Backtracking)
+
+
+
+
+
+
+
+
 
   ### Day 25 (Dynamic Programming)
 1. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
