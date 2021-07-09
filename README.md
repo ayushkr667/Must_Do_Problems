@@ -36,6 +36,7 @@
 1. [N meetings in one room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1#)
 2. [Coin Change 2](https://leetcode.com/problems/coin-change-2/)
 3. [Fractional Knapsack](https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1#)
+4. [Minimum Platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#)
 
 
   ### Day 25 (Dynamic Programming)
