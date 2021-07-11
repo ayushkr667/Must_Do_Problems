@@ -41,6 +41,7 @@
 
   ### Day 9 (Backtracking)
 1. [N-Queens](https://leetcode.com/problems/n-queens/)
+2. [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
 
 
 
