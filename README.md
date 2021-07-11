@@ -40,8 +40,7 @@
 5. [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
 
   ### Day 9 (Backtracking)
-
-
+1. [N-Queens](https://leetcode.com/problems/n-queens/)
 
 
 
