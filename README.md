@@ -45,8 +45,7 @@
 3. [M-Coloring Problem](https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1#)
 4. [Rat in a Maze Problem - I](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1#)
 5. [Permutations](https://leetcode.com/problems/permutations/)
-
-
+6. [Word Break](https://practice.geeksforgeeks.org/problems/word-break1352/1#)
 
 
 
