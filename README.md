@@ -65,3 +65,4 @@
 9. [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
 10. [Rod Cutting](https://practice.geeksforgeeks.org/problems/rod-cutting0840/1#)
 11. [Super Egg Drop](https://leetcode.com/problems/super-egg-drop/)
+12. [Word Break](https://leetcode.com/problems/word-break/)
