@@ -22,6 +22,7 @@
 // Explanation: The string can be segmented as 
 // "i like samsung" or "i like sam sung".
 
+
 int solve(int i, string s, unordered_map<string, int>& dict){
         if(i == s.size())
             return 1;
@@ -43,3 +44,39 @@ int solve(int i, string s, unordered_map<string, int>& dict){
         }
         return solve(0, s, dict);
     }
+
+
+
+//DP
+class Solution {
+public:
+    bool wordBreak(string s, vector<string>& wordDict) {
+        unordered_map<string, int> dict;
+        for(auto word: wordDict){
+            dict[word] = 1;
+        }
+        
+        vector<bool> dp(s.size(), false);
+        
+        for(int i=0; i<s.size(); i++){
+            for(int j=0; j<=i; j++){
+                string temp = s.substr(j, (i-j+1));
+                if(j == 0){
+                    if(dict[temp]){
+                        dp[i] = true;
+                    }else{
+                        dp[i] = false;
+                    }
+                }
+                else{
+                    dp[i] = dp[i] | (dp[j-1] & dict[temp]);
+                }
+            }
+        }
+        
+        for(auto i:dp)
+            cout << i << " ";
+        
+        return dp[s.size()-1];
+    }
+};
