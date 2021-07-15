@@ -51,7 +51,8 @@
   ### Day 10 (Backtracking)
 1. [Combination Sum](https://leetcode.com/problems/combination-sum/)
 2. [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
-3. [Subset Sum Problem!](https://www.interviewbit.com/old/problems/subset-sum-problem/)
+3. [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
+4. [Subset Sum Problem!](https://www.interviewbit.com/old/problems/subset-sum-problem/)
 
   ### Day 25 (Dynamic Programming)
 1. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
