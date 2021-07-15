@@ -55,6 +55,9 @@
 11. [Subset Sum Problem!](https://www.interviewbit.com/old/problems/subset-sum-problem/)
 12. [K-th permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
 
+  ### Day 13 (Stack and Queue)
+1. [Implement stack using array](https://practice.geeksforgeeks.org/problems/implement-stack-using-array/1#)
+
   ### Day 25 (Dynamic Programming)
 1. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 2. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
