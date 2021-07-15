@@ -49,11 +49,11 @@
 7. [Word Break II](https://leetcode.com/problems/word-break-ii/)
 
   ### Day 10 (Backtracking)
-1. [Combination Sum](https://leetcode.com/problems/combination-sum/)
-2. [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
-3. [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
-4. [Subset Sum Problem!](https://www.interviewbit.com/old/problems/subset-sum-problem/)
-5. [K-th permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
+8. [Combination Sum](https://leetcode.com/problems/combination-sum/)
+9. [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
+10. [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
+11. [Subset Sum Problem!](https://www.interviewbit.com/old/problems/subset-sum-problem/)
+12. [K-th permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
 
   ### Day 25 (Dynamic Programming)
 1. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
