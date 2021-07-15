@@ -57,6 +57,7 @@
 
   ### Day 13 (Stack and Queue)
 1. [Implement stack using array](https://practice.geeksforgeeks.org/problems/implement-stack-using-array/1#)
+2. [Implement Queue using array](https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1#)
 
   ### Day 25 (Dynamic Programming)
 1. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
