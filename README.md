@@ -61,6 +61,7 @@
 3. [BFS of graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1#)
 4. [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
 5. [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+6. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
   ### Day 25 (Dynamic Programming)
 1. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
