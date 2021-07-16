@@ -62,6 +62,7 @@
 4. [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
 5. [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
 6. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+7. [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
 
   ### Day 25 (Dynamic Programming)
 1. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
