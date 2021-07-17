@@ -64,6 +64,9 @@
 6. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 7. [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
 
+ ### Day 14 (Stack and Queue)
+ 1. [Nearest Smaller Element](https://www.interviewbit.com/problems/nearest-smaller-element/)
+
   ### Day 25 (Dynamic Programming)
 1. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 2. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
