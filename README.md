@@ -67,6 +67,7 @@
  ### Day 14 (Stack and Queue)
  8. [Nearest Smaller Element](https://www.interviewbit.com/problems/nearest-smaller-element/)
  9. [LRU Cache](https://leetcode.com/problems/lru-cache/)
+ 10. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 
   ### Day 25 (Dynamic Programming)
 1. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
