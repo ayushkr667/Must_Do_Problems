@@ -27,8 +27,6 @@ public:
     int orangesRotting(vector<vector<int>>& grid) {
         int m = grid.size();
         int n = grid[0].size();
-        
-        vector<vector<int>>(m, vector<int>(n, INT_MAX));
         queue<vector<int>> Q;
         int orange = 0;
         
