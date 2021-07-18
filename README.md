@@ -69,6 +69,7 @@
  9. [LRU Cache](https://leetcode.com/problems/lru-cache/)
  10. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
  11. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
+ 12. [Min Stack](https://leetcode.com/problems/min-stack/)
 
   ### Day 25 (Dynamic Programming)
 1. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
