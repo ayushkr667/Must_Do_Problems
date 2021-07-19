@@ -79,6 +79,7 @@
   4. [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
   5. [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
   6. [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
+  7. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 
 
   ### Day 25 (Dynamic Programming)
