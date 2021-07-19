@@ -77,6 +77,9 @@
   2. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
   3. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
   4. [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
+  5. [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
+  6. [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
+
 
   ### Day 25 (Dynamic Programming)
 1. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
