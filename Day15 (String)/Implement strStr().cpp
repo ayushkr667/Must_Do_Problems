@@ -36,5 +36,11 @@ public:
         return -1;
     }
 };
+//we can solve this by using Rabin karp algorithm also
+    //-> basic idea of rabin carp is to use hash code to avoid checking again
+    //-> and again. O(n-m+1) is best case still worset case is O(m*n)
+
+
+
 
 //ANOTHER solution is KMP search which has O(m+n)
