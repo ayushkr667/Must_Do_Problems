@@ -64,7 +64,7 @@
 6. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 7. [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
 
- ### Day 14 (Stack and Queue)
+  ### Day 14 (Stack and Queue)
  8. [Nearest Smaller Element](https://www.interviewbit.com/problems/nearest-smaller-element/)
  9. [LRU Cache](https://leetcode.com/problems/lru-cache/)
  10. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
@@ -73,14 +73,17 @@
  13. [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
 
   ### Day 15 (String)
-  1. [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
-  2. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
-  3. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
-  4. [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
-  5. [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
-  6. [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
-  7. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
-  8. [Rabin Karp](https://leetcode.com/problems/implement-strstr/)
+1. [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
+2. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+3. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+4. [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
+5. [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
+6. [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
+7. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+8. [Rabin Karp](https://leetcode.com/problems/implement-strstr/)
+
+  ### Day 16 (string)
+1. [Check for Anagrams](https://leetcode.com/problems/valid-anagram/solution/)
 
 
   ### Day 25 (Dynamic Programming)
