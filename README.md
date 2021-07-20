@@ -80,6 +80,7 @@
   5. [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
   6. [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
   7. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+  8. [Rabin Karp](https://practice.geeksforgeeks.org/problems/31272eef104840f7430ad9fd1d43b434a4b9596b/1/#)
 
 
   ### Day 25 (Dynamic Programming)
