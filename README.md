@@ -84,6 +84,8 @@
 
   ### Day 16 (string)
 1. [Check for Anagrams](https://leetcode.com/problems/valid-anagram/solution/)
+2. [Count and Say](https://leetcode.com/problems/count-and-say/)
+3. [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)
 
 
   ### Day 25 (Dynamic Programming)
