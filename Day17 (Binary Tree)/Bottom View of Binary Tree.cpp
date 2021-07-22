@@ -25,6 +25,10 @@
 //For the above tree the output should be 5 10 4 14 25
 
 
+//O(n)...use array instead of map...with manipulation of negative key;
+
+
+//O(nlogn)
 class Solution {
   public:
     vector<int> bottomView(Node *root)
@@ -58,3 +62,4 @@ class Solution {
     }
 
 };
+
