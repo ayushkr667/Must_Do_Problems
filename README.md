@@ -96,6 +96,10 @@
 6. [Top View of Binary Tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1#)
 
   ### Day 18 (Binary Tree)
+7. [Binary Tree Level Order](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+8. [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+
+
   ### Day 19 (Binary Tree)
 1. [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 
