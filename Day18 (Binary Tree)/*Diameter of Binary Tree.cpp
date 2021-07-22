@@ -27,12 +27,6 @@
  * };
  */
 class Solution {
-public:
-    int diameterOfBinaryTree(TreeNode* root) {
-        int diameter = 0;
-        height(root, diameter);
-        return diameter;
-    }
 private:
     int height(TreeNode* node, int& diameter) {
         if (!node) {
@@ -40,7 +34,16 @@ private:
         }
         int lh = height(node->left, diameter);
         int rh = height(node->right, diameter);
-        diameter = max(diameter, lh + rh);
-        return 1 + max(lh, rh);
+        diameter = max(diameter, 1+lh+rh);
+        return (1 + max(lh,rh));
+    }
+    
+public:
+    int diameterOfBinaryTree(TreeNode* root) {
+        int diameter = INT_MIN;
+        height(root, diameter);
+        //diameter no of nodes have 1 less edge
+        return diameter-1;
     }
 };
+
