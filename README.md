@@ -99,7 +99,7 @@
 7. [Binary Tree Level Order](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 8. [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 9. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
-
+10. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 
   ### Day 19 (Binary Tree)
 1. [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
