@@ -95,6 +95,10 @@
 5. [Bottom View of Binary Tree](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1#)
 6. [Top View of Binary Tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1#)
 
+  ### Day 18 (Binary Tree)
+  ### Day 19 (Binary Tree)
+1. [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+
   ### Day 25 (Dynamic Programming)
 1. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 2. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
