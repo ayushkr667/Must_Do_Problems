@@ -92,7 +92,8 @@
 2. [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 3. [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 4. [Left View of Binary Tree](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1#)
-
+5. [Bottom View of Binary Tree](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1#)
+6. [Top View of Binary Tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1#)
 
   ### Day 25 (Dynamic Programming)
 1. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
