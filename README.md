@@ -101,6 +101,7 @@
 9. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 10. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 11. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
+12. [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 
   ### Day 19 (Binary Tree)
 1. [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
