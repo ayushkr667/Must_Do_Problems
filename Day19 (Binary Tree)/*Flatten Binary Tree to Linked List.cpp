@@ -44,7 +44,7 @@ public:
         //     root  = root->right;
         // }
         
-        if(!root || (!root->left && !root->right))
+        if(!root )
            return;
           
         if(root->left != NULL){
