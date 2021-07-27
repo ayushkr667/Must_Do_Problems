@@ -113,6 +113,7 @@
 
    ### Day 20 (Binary Search Tree)
 1. [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+2. [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
 
   ### Day 25 (Dynamic Programming)
 1. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
