@@ -116,6 +116,7 @@
 2. [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
 3. [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 4. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+5. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 
   ### Day 25 (Dynamic Programming)
 1. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
