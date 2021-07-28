@@ -115,6 +115,7 @@
 1. [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
 2. [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
 3. [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+4. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 
   ### Day 25 (Dynamic Programming)
 1. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
