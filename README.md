@@ -119,7 +119,10 @@
 5. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 6. [Predecessor and Successor](https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1#)
 
-  ### Day 25 (Dynamic Programming)
+   ### Day 21 (Binary search Tree)
+7. [Floor and Ceil in a BST](https://www.geeksforgeeks.org/floor-and-ceil-from-a-bst/)
+ 
+   ### Day 25 (Dynamic Programming)
 1. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 2. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 3. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
