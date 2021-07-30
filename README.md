@@ -111,7 +111,7 @@
 17. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 18. [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
 
-   ### Day 20 (Binary Search Tree)
+  ### Day 20 (Binary Search Tree)
 1. [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
 2. [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
 3. [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
@@ -119,11 +119,10 @@
 5. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 6. [Predecessor and Successor](https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1#)
 
-   ### Day 21 (Binary search Tree)
+  ### Day 21 (Binary search Tree)
 7. [Floor and Ceil in a BST](https://www.geeksforgeeks.org/floor-and-ceil-from-a-bst/)
- 
- 
-   ### Day 25 (Dynamic Programming)
+
+  ### Day 25 (Dynamic Programming)
 1. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 2. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 3. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
