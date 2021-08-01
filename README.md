@@ -124,6 +124,7 @@
 8. [Kth largest element in BST](https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1#)
 9. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 10. [Find a pair with a given sum in BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
+11. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
 
   ### Day 25 (Dynamic Programming)
 1. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
