@@ -83,3 +83,4 @@ public:
  * int param_1 = obj->next();
  * bool param_2 = obj->hasNext();
  */
+
