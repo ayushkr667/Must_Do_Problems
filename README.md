@@ -126,6 +126,7 @@
 10. [Find a pair with a given sum in BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
 11. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
 12. [Largest BST](https://practice.geeksforgeeks.org/problems/largest-bst/1#)
+13. [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 
   ### Day 25 (Dynamic Programming)
 1. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
