@@ -128,6 +128,9 @@
 12. [Largest BST](https://practice.geeksforgeeks.org/problems/largest-bst/1#)
 13. [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 
+  ### Day 23 (Graph)
+1. [Clone Graph](https://www.interviewbit.com/old/problems/clone-graph/)
+
   ### Day 25 (Dynamic Programming)
 1. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 2. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
