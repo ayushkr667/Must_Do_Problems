@@ -131,6 +131,7 @@
   ### Day 23 (Graph)
 1. [Clone Graph](https://www.interviewbit.com/old/problems/clone-graph/)
 2. [DFS](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1/?category#)
+3. [BFS](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1#)
 
   ### Day 25 (Dynamic Programming)
 1. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
